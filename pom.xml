@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>ServiceDiscovery </artifactId>
+	<artifactId>service-discovery </artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Service Discovery </name>
 	<description>Aston project for Spring Boot with Service Discovery (Eureka)</description>
